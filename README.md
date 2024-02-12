@@ -1,4 +1,4 @@
-👋 Hi, I’m @fhmezzomo
+👋 Hi, I’m @fhmezzomo.
 I have experience as a mechanical engineer and I am looking for opportunities to use my Python skills.
 
 
